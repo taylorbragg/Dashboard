@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="221" viewBox="0 0 199 221">
+  <defs>
+    <pattern id="pattern" width="1" height="1" patternTransform="matrix(1, 0, 0, -1, 0, 12)" viewBox="0 0 6 6">
+      <use preserveAspectRatio="none" xlink:href="#image"/>
+    </pattern>
+    <image id="image" preserveAspectRatio="none" width="6" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAABcpAAAXKQE1kMoEAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAADZQTFRF////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARy+jrgAAABF0Uk5TAAIDLWKTnJ6foKGio6Tq/f72WhKSAAAEsUlEQVR42u3UiRWCQBBEQVC5QZz8kzUKhbddHcLU3+26G68fX53lrp/qo4Bo/1JAuL8C0v0VkO6vgHR/BaT7KyDdXwFp/nOVAvgrgL8C+CuAvwL4K4C/AuL9FdC6/1KlAP4K4K8A/grgrwD+CuCvAP4K4K+Ahv3XKgXwVwB/BfBXAH8F8FcAfwXwVwB/BTTsv1UpgL8C+CuAvwL4K4C/AvgrgL8CGvffqxTAXwH8FcBfAfwVwF8B/BXAXwH8FdCw/1GlgNw9/uWvgHR/BaT7KyDdXwHp/gpI91fAnTbUFTsVcJc935cU4A9QgNMrwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFmAJMAaYAU4ApwBRgCjAFKEABClCAAhSgAAUoQAEKUIACFKAABShAAQpQgAIUoAAFKEABClCAAhSgAAUoQAEKUIACFKAABShAAQpQgAIUoAAFKEABClCAAhSgAAUoQAEKUIACFKAABShAAQpQgAIUoAAFKEABClCAAhSgAAUoQAEKUIACFKAABShAAQpQgAIUoAAFKEABClCAAhSgAAUoQAEKUIACFKAABShAAQpQgAIUoAAFKMDpFWAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGAKMAWYAkwBpgBTgCnAFGACMP78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz9/4G3/jb/yNv/E3/sbf+Bt/42/8jb/xN/7G3/gbf+Nv/I2/8Tf+xt/4G3/jb/yNv/E3/sbf+PPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f/78+fPnz58/f+Nv/I2/8Tf+xt/4G3/jb/yNv/E3/sbf+Bt/42/8jb/xN/7G3/gbf+Nv/I2/8Tf+xt/4G3/jb/z58+fPnz9//vz58+fPnz9//vz58+fPnz9//vz58+fPnz9//vz58+fPnz9//vz58+fPnz9//vz58+fPnz9//vz58+fPn7/xN/7G3/gbf+Nv/I2/8Tf+xt/4G3/jb/yNv/E3/sbf+Bt/42/8jb/xN/7G3/gbf+Nv/I2/8efPP3rDJf4n/7vscXj/CuCvAP4K4K8A/grgn7j+4B9ewM5fAfwVwF8B/BXAXwH8FcBfAfwVwD+sgI2/AvgrgL8C+CuAvwL4K4C/AvjHFbDyVwB/BfBXAH8F8FcAfwXwVwB/BfAPK2DhrwD+CuCvAP4K4K8A/grgrwD+CuAfVsDMXwH8FcBfAfwVwF8B/BXAXwH84wqY+CuAvwL4K4B/fAH8swvgn10A/+wC+GcXMPL/9b5E//vADZXp9wAAAABJRU5ErkJggg=="/>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(-1034 -173)">
+    <text id="September_2021" data-name="September 2021" transform="translate(1034 189)" fill="#414141" font-size="14" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">September </tspan><tspan y="0" fill="#a5a5a5" font-family="Tahoma" font-weight="400">2021</tspan></text>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1180 173)" fill="none" stroke="#f7f7f7" stroke-width="2">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(1210 173)" fill="none" stroke="#f7f7f7" stroke-width="2">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10" fill="none"/>
+    </g>
+    <use id="keyboard-right-arrow-button" transform="translate(1194 187) rotate(180)" xlink:href="#image"/>
+    <rect id="keyboard-right-arrow-button-2" data-name="keyboard-right-arrow-button" width="6" height="6" transform="translate(1218 181)" fill="url(#pattern)"/>
+    <text id="Mo" transform="translate(1034 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Mo</tspan></text>
+    <text id="Tu" transform="translate(1067 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Tu</tspan></text>
+    <text id="We" transform="translate(1098 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">We</tspan></text>
+    <text id="Th" transform="translate(1132 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Th</tspan></text>
+    <text id="Fr" transform="translate(1163 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Fr</tspan></text>
+    <text id="Sa" transform="translate(1191 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Sa</tspan></text>
+    <text id="Su" transform="translate(1222 222)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">Su</tspan></text>
+    <text id="_1" data-name="1" transform="translate(1037 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2" data-name="2" transform="translate(1070 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3" data-name="3" transform="translate(1103 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4" data-name="4" transform="translate(1135 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+    <text id="_5" data-name="5" transform="translate(1166 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6" data-name="6" transform="translate(1195 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">6</tspan></text>
+    <text id="_7" data-name="7" transform="translate(1226 254)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">7</tspan></text>
+    <text id="_8" data-name="8" transform="translate(1037 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">8</tspan></text>
+    <text id="_9" data-name="9" transform="translate(1070 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">9</tspan></text>
+    <text id="_10" data-name="10" transform="translate(1100 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">10</tspan></text>
+    <text id="_11" data-name="11" transform="translate(1132 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">11</tspan></text>
+    <text id="_12" data-name="12" transform="translate(1162 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">12</tspan></text>
+    <text id="_13" data-name="13" transform="translate(1192 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">13</tspan></text>
+    <text id="_14" data-name="14" transform="translate(1222 286)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">14</tspan></text>
+    <text id="_15" data-name="15" transform="translate(1035 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">15</tspan></text>
+    <text id="_16" data-name="16" transform="translate(1068 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">16</tspan></text>
+    <text id="_17" data-name="17" transform="translate(1100 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">17</tspan></text>
+    <text id="_18" data-name="18" transform="translate(1132 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">18</tspan></text>
+    <text id="_19" data-name="19" transform="translate(1162 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">19</tspan></text>
+    <text id="_20" data-name="20" transform="translate(1192 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">20</tspan></text>
+    <text id="_21" data-name="21" transform="translate(1222 318)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">21</tspan></text>
+    <text id="_22" data-name="22" transform="translate(1035 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">22</tspan></text>
+    <text id="_23" data-name="23" transform="translate(1068 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">23</tspan></text>
+    <text id="_24" data-name="24" transform="translate(1100 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">24</tspan></text>
+    <text id="_25" data-name="25" transform="translate(1132 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">25</tspan></text>
+    <text id="_26" data-name="26" transform="translate(1162 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">26</tspan></text>
+    <text id="_27" data-name="27" transform="translate(1192 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">27</tspan></text>
+    <text id="_28" data-name="28" transform="translate(1222 350)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">28</tspan></text>
+    <text id="_29" data-name="29" transform="translate(1035 382)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">29</tspan></text>
+    <text id="_30" data-name="30" transform="translate(1068 382)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">30</tspan></text>
+    <text id="_31" data-name="31" transform="translate(1101 382)" fill="#414141" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">31</tspan></text>
+    <text id="_1-2" data-name="1" transform="translate(1136 382)" fill="#a5a5a5" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(1167 382)" fill="#a5a5a5" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3-2" data-name="3" transform="translate(1195 382)" fill="#a5a5a5" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4-2" data-name="4" transform="translate(1226 382)" fill="#a5a5a5" font-size="8" font-family="Tahoma-Bold, Tahoma" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="2.5" cy="2.5" r="2.5" transform="translate(1103 261)" fill="#3921fe"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.5" cy="2.5" r="2.5" transform="translate(1135 261)" fill="#3921fe"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.5" cy="2.5" r="2.5" transform="translate(1166 261)" fill="#3921fe"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.5" cy="2.5" r="2.5" transform="translate(1195 261)" fill="#3921fe"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.5" cy="2.5" r="2.5" transform="translate(1226 261)" fill="#3921fe"/>
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="2.5" cy="2.5" r="2.5" transform="translate(1070 293)" fill="#3921fe"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.5" cy="2.5" r="2.5" transform="translate(1037 293)" fill="#3921fe"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="2.5" cy="2.5" r="2.5" transform="translate(1070 389)" fill="#3921fe"/>
+    <circle id="Ellipse_14" data-name="Ellipse 14" cx="2.5" cy="2.5" r="2.5" transform="translate(1103 389)" fill="#3921fe"/>
+  </g>
+</svg>
